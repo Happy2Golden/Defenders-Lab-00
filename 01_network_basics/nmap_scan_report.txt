@@ -1,0 +1,21 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-07-10 14:52 EDT
+Nmap scan report for 192.168.1.1
+Host is up (0.00044s latency).
+All 1000 scanned ports on 192.168.1.1 are in ignored states.
+Not shown: 1000 filtered tcp ports (net-unreach)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: 3Com 4500G switch (92%), H3C Comware 5.20 (92%), Huawei VRP 8.100 (92%), Microsoft Windows Server 2003 SP1 (92%), Oracle Virtualbox Slirp NAT bridge (92%), QEMU user mode network gateway (92%), AXIS 2100 Network Camera (92%), D-Link DP-300U, DP-G310, or Hamlet HPS01UU print server (92%), HP Tru64 UNIX 5.1A (92%), Sanyo PLC-XU88 digital video projector (92%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 10.31 seconds
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-07-10 14:53 EDT
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000057s latency).
+All 1000 scanned ports on localhost (127.0.0.1) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 0 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 1.73 seconds
