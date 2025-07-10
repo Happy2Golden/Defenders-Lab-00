@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛡️ DEFENDERS LAB  
 ### *"In the grid, we guard the gateways."*
 
