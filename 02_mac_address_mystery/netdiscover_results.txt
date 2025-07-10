@@ -1,5 +1,13 @@
  _____________________________________________________________________________
    IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
  -----------------------------------------------------------------------------
+ 192.168.1.65    c8:3a:6b:96:13:a8      1      60  Roku, Inc
+ 192.168.1.72    6c:56:97:48:80:02      1      60  Amazon Technologies Inc.
+ 192.168.1.78    40:b0:76:35:28:30      1      60  ASUSTek COMPUTER INC.
+ 192.168.1.80    38:f9:d3:cc:20:49      1      60  Apple, Inc.
+ 192.168.1.83    d4:e2:2f:dd:61:a7      1      60  Roku, Inc
+ 192.168.1.86    dc:7f:a4:f0:31:47      1      60  2Wire Inc
+ 192.168.1.76    84:ea:ed:3c:09:c5      1      60  Roku, Inc
+ 192.168.1.254   dc:7f:a4:f0:31:3d      1      60  2Wire Inc
 
--- Active scan completed, 0 Hosts found.
+-- Active scan completed, 8 Hosts found.
