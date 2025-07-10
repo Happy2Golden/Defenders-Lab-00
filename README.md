@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ DEFENDERS LAB  
 ### *"In the grid, we guard the gateways."*
 
@@ -91,4 +92,12 @@ More missions coming soon including:
 ---
 
 🛠 Built by [Happy2Golden](https://github.com/Happy2Golden)  
+
 🎮 Defenders Lab | Cybersecurity by story, skill, and source control.
+=======
+## 🧪 Missions
+
+- [Mission 00: Intro to the Grid](./00_intro_mission/)
+- [Mission 01: Network Basics](./01_network_basics/)
+
+>>>>>>> 2d81c12 (Complete Mission 01: Add network scan logs and mission files)

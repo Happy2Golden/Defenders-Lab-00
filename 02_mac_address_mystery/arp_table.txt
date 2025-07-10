@@ -1,0 +1,5 @@
+10.0.2.3 dev eth0 lladdr 52:55:0a:00:02:03 REACHABLE 
+10.0.2.2 dev eth0 lladdr 52:55:0a:00:02:02 REACHABLE 
+fd17:625c:f037:2::2 dev eth0 lladdr 52:56:00:00:00:02 router STALE 
+fe80::2 dev eth0 lladdr 52:56:00:00:00:02 router STALE 
+fd17:625c:f037:2::3 dev eth0 lladdr 52:56:00:00:00:03 router REACHABLE 
